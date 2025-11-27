@@ -2,26 +2,20 @@
 
 Esta é uma lista de laboratórios oficiais, seguros e adequados para treinar segurança de aplicações na prática. São ambientes feitos para aprendizado — nada aqui envolve testar sistemas reais.
 
-#### OWASP WebGoat
-Aplicação vulnerável criada pela OWASP com foco em vulnerabilidades clássicas como injeção, XSS e falhas de autenticação/autorização: https://owasp.org/www-project-webgoat/
+#### Hack The Box
+Plataforma de treinamento em segurança ofensiva e defensiva, com máquinas e ambientes vulneráveis para prática controlada. [https://www.hackthebox.com/]
 
-#### OWASP Juice Shop
-Aplicação moderna e gamificada que simula um e-commerce com falhas reais de segurança: https://owasp.org/www-project-juice-shop/
+#### TryHackMe
+Plataforma de aprendizado em segurança cibernética, com labs práticos e trilhas de estudo em segurança web, redes e hacking ético. [https://tryhackme.com/]
 
 #### PortSwigger Web Security Academy
-Coleção abrangente de laboratórios gratuitos cobrindo desde fundamentos até técnicas avançadas de segurança web: https://portswigger.net/web-security
+Plataforma de aprendizado com laboratórios online interativos para treinar técnicas de segurança em aplicações web, cobrindo desde vulnerabilidades básicas até cenários mais avançados. [https://portswigger.net/web-security]
 
-#### Hack The Box – Academy e Labs Free
-Ambiente de treino com trilhas básicas e avançadas, incluindo módulos específicos de segurança web e API: https://academy.hackthebox.com
+#### PentesterLab
+Plataforma educacional focada em segurança de aplicações, com exercícios práticos e laboratórios guiados. [https://pentesterlab.com/]
 
-#### TryHackMe – Web Hacking Path
-Caminho guiado focado em fundamentos de segurança web: https://tryhackme.com/path/outline/web
+#### OWASP WebGoat
+Aplicação vulnerável criada pela OWASP para aprendizado prático em segurança web, com foco em falhas como injeção, XSS e problemas de autenticação/autorização. [https://owasp.org/www-project-webgoat/]
 
-#### PentesterLab – Free Exercises
-Labs curtos e diretos cobrindo conceitos essenciais de AppSec: https://pentesterlab.com/exercises
-
-#### Google Gruyere
-Aplicação vulnerável criada pelo Google para ensinar falhas comuns: https://google-gruyere.appspot.com/
-
-#### Root Me – Web & Application Challenges
-Desafios práticos de segurança web, API, mobile e lógica de aplicação: https://www.root-me.org/en/Challenges/Web-Server/
+#### OWASP Juice Shop
+Aplicação vulnerável em formato de e-commerce, usada para treinar falhas reais em sistemas modernos de forma prática e gamificada. [https://owasp.org/www-project-juice-shop/]
